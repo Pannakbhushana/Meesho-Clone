@@ -13,7 +13,7 @@
  
  
  # Deployed Link
-<a href="https://vague-acoustics-7371.vercel.app/">Demo</a>
+<a href="https://taupe-salamander-d7555e.netlify.app/">Demo</a>
  
  
  # Features :
